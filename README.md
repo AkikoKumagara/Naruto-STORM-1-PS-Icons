@@ -12,7 +12,7 @@ My modded textures are hosted on Github. You can download them at the following 
 
 Download the latest release from Github and extract the data_win32 folder into your game's directory (usually C:\Program Files (x86)\Steam\steamapps\common\QWANT).
 
-Please report any bugs you notice with this mod in the comments, and be sure to get a screenshot of bugs if possible.
+Please report any bugs you notice with this mod in the [Issues section](https://github.com/AkikoKumagara/Naruto-STORM-1-PS-Icons/issues), and be sure to get a screenshot of bugs if possible.
 
 ![Screenshot](https://steamuserimages-a.akamaihd.net/ugc/1479946880513954880/2C537BEA90433E595E01DC369CF82B67DC8EF0A3/)
 
