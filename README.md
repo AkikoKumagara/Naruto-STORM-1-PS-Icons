@@ -2,10 +2,6 @@
 
 This mod replaces the Xbox style button prompts that appear in menus and in the game with PlayStation style icons. This is useful for people who play using a DualShock gamepad or third party gamepad and/or those who are used to this button style and layout.
 
-If you find anything seems to be mistakenly left in Xbox format, please to let me know and I will try my best to resolve that. Some references to the Back button have not been fixed yet.
-
-Note: This mod is only for the "HD" version of Full Burst. It is not meant to nor confirmed to work in the initial version of the game.
-
 ## Downloading Modded Textures
 
 My modded textures are hosted on Github. You can download them at the following link.
