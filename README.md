@@ -20,3 +20,11 @@ Please report any bugs you notice with this mod in the [Issues section](https://
 
 [Storm 2](https://github.com/AkikoKumagara/Naruto-STORM-2-PS-Icons)<br>
 [Storm 3](https://github.com/AkikoKumagara/Naruto-STORM-3-PS-Icons)
+
+## Donate
+
+If you appreciate my work and would like to donate, I have a PayPal you can donate to here:
+
+[PayPal Donation Link](https://www.paypal.me/sophiebear)
+
+I am only asking for donations because this work takes time and time is money. Thank you for checking out my mod!
